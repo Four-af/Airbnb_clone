@@ -1,0 +1,2 @@
+The air-bnb clone built using react and redux, comprising of the home page which offers the choice of the perfect stay from hundreds of options.
+the navbar allowing the user to search for any destination, select the dates and guests and thereby redirecting to the search results page.
